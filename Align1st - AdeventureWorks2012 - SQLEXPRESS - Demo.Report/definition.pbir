@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Align1st - AdeventureWorks2012 - SQLEXPRESS - Demo.Dataset"
+    },
+    "byConnection": null
+  }
+}
